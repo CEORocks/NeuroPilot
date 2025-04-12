@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 NeuroPilot: Advanced Model Finetuning Toolkit
 
 NeuroPilot is a powerful framework designed to accelerate and simplify the process of finetuning large language models. With support for distributed training, mixed precision, hyperparameter optimization, and advanced quantization techniques, NeuroPilot empowers machine learning engineers to train and optimize models with ease and efficiency.
@@ -33,10 +33,10 @@ NeuroPilot is an intuitive and high-performance toolkit aimed at enhancing the f
 To install NeuroPilot and start using it, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/NeuroPilot.git
+git clone https://github.com/CEORocks/NeuroPilot.git
 cd NeuroPilot
 pip install -r requirements.txt
-```
+
 
 Ensure that you have CUDA installed for GPU acceleration.
 
